@@ -23,6 +23,6 @@ Nous vous invitons à [prendre connaissance d'un schéma](/etalab/schema-irve/la
 
 Si vous connaissez une initiative similaire, n'hésitez pas à [nous le faire savoir](https://github.com/etalab/schema.data.gouv.fr/issues/new).
 
-### Sandre
+#### Sandre
 
-Le [Sandre](http://www.sandre.eaufrance.fr) a pour mission, d'établir et de mettre à disposition le référentiel des données sur l'eau du [Système d'Information sur l'Eau](http://www.sandre.eaufrance.fr/concept/système-dinformation-sur-leau). Ce référentiel, composé de spécifications techniques et de listes de codes libres d'utilisation, décrit les modalités d'échange des données sur l'eau à l'échelle de la France. D'un point de vue informatique, le Sandre garantit l'interopérabilité des systèmes d'information relatifs à l'eau.
+Le [Sandre] (Service d'Administration Nationale des Données et Référentiels sur l'Eau : http://www.sandre.eaufrance.fr) a pour mission, d'établir et de mettre à disposition le référentiel des données sur l'eau pour le [Système d'Information sur l'Eau](http://www.sandre.eaufrance.fr/concept/système-dinformation-sur-leau). Ce référentiel, composé de spécifications techniques et de listes de codes libres d'utilisation, décrit les modalités d'échange des données sur l'eau à l'échelle de la France. D'un point de vue informatique, le Sandre garantit l'interopérabilité des systèmes d'information relatifs à l'eau. Les schémas Sandre sont accessibles de xml.sandre.eaufrance.fr et owl.sandre.eaufrance.fr      
